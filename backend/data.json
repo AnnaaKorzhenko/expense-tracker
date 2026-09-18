@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1725181200000",
+    "type": "income",
+    "title": "Monthly Scholarship",
+    "amount": 2000,
+    "category": "Education",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "1725267600000",
+    "type": "expense",
+    "title": "Apartment Rent",
+    "amount": 8000,
+    "category": "Housing",
+    "date": "2026-09-02"
+  },
+  {
+    "id": "1725354000000",
+    "type": "expense",
+    "title": "Groceries at supermarket",
+    "amount": 1200,
+    "category": "Food",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "1725526800000",
+    "type": "expense",
+    "title": "Coffee with friends",
+    "amount": 150,
+    "category": "Food",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "1725872400000",
+    "type": "income",
+    "title": "Freelance Web Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-09-09"
+  },
+  {
+    "id": "1726045200000",
+    "type": "expense",
+    "title": "Uber to city center",
+    "amount": 250,
+    "category": "Transport",
+    "date": "2026-09-11"
+  },
+  {
+    "id": "1726131600000",
+    "type": "expense",
+    "title": "Netflix Subscription",
+    "amount": 300,
+    "category": "Entertainment",
+    "date": "2026-09-12"
+  },
+  {
+    "id": "1726304400000",
+    "type": "expense",
+    "title": "Gym Membership",
+    "amount": 900,
+    "category": "Health",
+    "date": "2026-09-14"
+  },
+  {
+    "id": "1726477200000",
+    "type": "expense",
+    "title": "Bought a new sweater",
+    "amount": 1400,
+    "category": "Shopping",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "1726563600000",
+    "type": "expense",
+    "title": "Lunch",
+    "amount": 180,
+    "category": "Food",
+    "date": "2026-09-17"
+  }
+]
